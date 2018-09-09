@@ -1,24 +1,39 @@
 fileFormatVersion: 2
-guid: 833b0fa2b5e301f4e98149650776e669
+guid: 3afc018a4b8576a42b9d967e7148757a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: eyeball
+    100000: Dummy001
     100002: //RootNode
-    400000: eyeball
+    100004: eyepupil
+    100006: Group001
+    100008: Object001
+    100010: Sphere001
+    100012: Sphere002
+    400000: Dummy001
     400002: //RootNode
-    2100000: wire_184155229
-    2100002: Material__1
-    2100004: Material__2
-    2300000: eyeball
-    3300000: eyeball
-    4300000: eyeball
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__1
-    second: {fileID: 2100000, guid: 92ab26adeee081b4588ddd39d5dcf7da, type: 2}
+    400004: eyepupil
+    400006: Group001
+    400008: Object001
+    400010: Sphere001
+    400012: Sphere002
+    2100000: 15 - Default
+    2100002: 13 - Eye
+    2100004: 19 - Default
+    2100006: 13 - Default
+    2300000: eyepupil
+    2300002: Object001
+    2300004: Sphere001
+    2300006: Sphere002
+    3300000: eyepupil
+    3300002: Object001
+    3300004: Sphere001
+    3300006: Sphere002
+    4300000: Object001
+    4300002: eyepupil
+    4300004: Sphere002
+    4300006: Sphere001
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

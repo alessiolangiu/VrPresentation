@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HistoryOfTheVirtualReality.unity
-    guid: 8fe7073bc92a5b941ae9d3534d406409
+    path: Assets/Scenes/HistoryOfTheVirtualReality2.unity
+    guid: 09d35b606ff27ba4490cd6dc1ff216c7
   m_configObjects: {}

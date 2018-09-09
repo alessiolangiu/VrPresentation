@@ -1,24 +1,10 @@
 fileFormatVersion: 2
-guid: 833b0fa2b5e301f4e98149650776e669
+guid: 98adbdb2a5db9b142bc043cc18c4aa66
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: eyeball
-    100002: //RootNode
-    400000: eyeball
-    400002: //RootNode
-    2100000: wire_184155229
-    2100002: Material__1
-    2100004: Material__2
-    2300000: eyeball
-    3300000: eyeball
-    4300000: eyeball
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__1
-    second: {fileID: 2100000, guid: 92ab26adeee081b4588ddd39d5dcf7da, type: 2}
+    2186277476908879412: ImportLogs
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -74,7 +60,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 3
+    tangentImportMode: 0
     normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
@@ -95,7 +81,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
