@@ -26,7 +26,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1104332387305694
 GameObject:
   m_ObjectHideFlags: 0
@@ -605,6 +605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be64a8da05a22d14fbe0945f8ab2cf2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  CurrentSlideStep: 1
 --- !u!114 &114192687619770042
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -958,6 +959,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58b1fa7dde3d66f46849d4c665823a0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  StepNumber: 1
+  Statuses:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: SlideSteps+OnChangeStatus, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
 --- !u!114 &114763022159864676
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -1,16 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 
-public class SlideSteps : MonoBehaviour {
+public class SlideSteps : MonoBehaviour
+{
+    public int StepNumber;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    [System.Serializable]
+    public class OnChangeStatus : UnityEvent<StatusDirection> { };
+    public OnChangeStatus Statuses;
+
+    // Use this for initialization
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 }
